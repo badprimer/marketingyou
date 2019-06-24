@@ -1,4 +1,4 @@
-# Caler Edwards Adbe XD Tutorial
+# Caler Edwards Adobe XD Tutorial
 
 This website was a design tutorial in Adobe XD which I descided to code.
 
