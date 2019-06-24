@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "sf-bold";
+  src: url("../fonts/sf-ui-display-bold.otf");
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "sf-light";
+  src: url("../fonts/sf-ui-display-light.otf");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "sf-medium";
+  src: url("../fonts/sf-ui-display-medium.otf");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "sf-thin";
+  src: url("../fonts/sf-ui-display-thin.otf");
+  font-style: normal;
+  font-weight: 100;
+}
