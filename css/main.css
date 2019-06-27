@@ -373,6 +373,10 @@ li:nth-child(-n + 5).nav-link a {
 }
 
 @media (max-width: 600px) {
+  .showcase-content {
+    padding-top: 100px;
+  }
+
   #support {
     background-position: -100px 100px;
     background-size: 100%;
@@ -384,6 +388,10 @@ li:nth-child(-n + 5).nav-link a {
 }
 
 @media (max-width: 500px) {
+  .showcase-content {
+    padding-top: 50px;
+  }
+
   #support {
     min-height: 1400px;
   }
@@ -402,5 +410,11 @@ li:nth-child(-n + 5).nav-link a {
 
   .footer-right ul {
     margin-bottom: 40px;
+  }
+}
+
+@media (max-width: 400px) {
+  #element-1 {
+    display: none;
   }
 }
