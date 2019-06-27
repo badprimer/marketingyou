@@ -51,7 +51,7 @@
 
 @media screen and (max-height: 450px) {
   .overlay {
-    overflow-y: auto;
+    overflow-y: scroll;
   }
   .overlay a {
     font-size: 24px;
