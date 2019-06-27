@@ -235,8 +235,8 @@ li:nth-child(-n + 5).nav-link a {
   margin-top: -700px;
   position: relative;
   min-height: 1800px;
-  background: url("../img/element-6.jpg") no-repeat -150px center / 60%;
-  z-index: -1;
+  background: url("../img/element-6.png") no-repeat -150px center / 60%;
+  /* z-index: -1; */
 }
 
 .content-support {
